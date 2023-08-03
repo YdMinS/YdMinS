@@ -2,7 +2,9 @@
 
 ![OS](https://img.shields.io/badge/OS-macOS%20Monterey-lightgrey)
 
-
+<picture>
+ <source media="(min-width:700px)" srcset="https://raw.githubusercontent.com/YdMinS/YdMinS/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 <!--
 **YdMinS/YdMinS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
