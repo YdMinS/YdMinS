@@ -1,6 +1,6 @@
 ### Hi, I'm YdMinS 👋
 
-![OS](https://img.shields.io/badge/OS-macOS%20Monterey-lightgrey)
+![OS](https://img.shields.io/badge/OS-macOS%20Ventura-lightgrey)
 
 <picture>
   <source media="(prefers-color-scheme: light)"
