@@ -3,7 +3,7 @@
 - 🧑🏻‍💻 Web Backend Engineer
 - 📍 🇰🇷 Republic of Korea (Seoul, Gyeonggi)
 - 📢 🇰🇷 Korean (mother tongue), 🇩🇪 German, 🇬🇧 English
-- 📚 Physics (B.s. at LMU Munich)
+- 📚 Physics (Bc.s. at LMU Munich)
 - 📭 dr.ydmins@gmail.com
 
 #### Currently
