@@ -1,7 +1,53 @@
-### Hi, I'm YdMinS 👋
+### YdMinS
 
+- 🧑🏻‍💻 Web Backend Engineer
+- 📍 🇰🇷 Republic of Korea (Seoul, Gyeonggi)
+- 📢 🇰🇷 Korean (mother tongue), 🇩🇪 German, 🇬🇧 English
+- 📚 Physics (B.s. at LMU Munich)
+- 📭 dr.ydmins@gmail.com
+
+#### Currently
+- ☁️  구름톤 트레이닝 풀스택 부트캠프 참여중(2023.05 ~ )
+
+#### 🥇 Main Stack 
+|Category      | Details                       |
+|:-----------|:--------------------------------|
+| Language   | Java                            |
+| Framework  | Spring Security, Spring Data JPA, Spring Boot |
+| Database   | MySQL, MariaDB                  |
+| Server     | AWS EC2, AWS RDS                |
+| IDE        | IntelliJ, VSCode                |
+| Tool       | Postman                         |
+| UI         | HTML, CSS, Thymeleaf |
+| VCS        | GitHub |
+| Collaboration Tool | Slack, Notion |
+
+#### 🥈 Sub Stack
+| Category   | Details    |
+|:-----------|:-----------|
+| Language   | JavaScript |
+| Framework  |            |
+| Library    | React, Axios, jQuery |
+| UI         | Tailwindcss |
+
+
+#### 🥉 Experienced Stack
+| Category   | Details |
+|:-----------|:-----|
+| Language   | PHP, Python, C#, Solidity |
+| Framework  | React-Native, Flask, WordPress |
+| Library    | Beautiful Soup            |
+| Tool       | EXPO                   |
+| IDE/Editor | Atom, Eclipse           |
+| Infrastructure | Docker
+| Server/Hosting    | Firebase, Bluehost |
+| Collaboration Tool | Jira |
+| Data Analysis | Gnuplot |
+
+<!--
+#### TOOL
 ![OS](https://img.shields.io/badge/OS-macOS%20Ventura-lightgrey)
-
+-->
 <!--
 <picture>
   <source media="(prefers-color-scheme: light)"
