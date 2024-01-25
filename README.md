@@ -7,7 +7,7 @@
 - 📭 dr.ydmins@gmail.com
 
 #### Currently
-- ☁️  구름톤 트레이닝 풀스택 부트캠프 참여중(2023.05 ~ )
+- 🙋🏻‍♂️ 구직활동중 (open to work)
 
 #### 🥇 Main Stack 
 |Category      | Details                       |
