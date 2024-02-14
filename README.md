@@ -25,8 +25,8 @@
 #### 🥈 Sub Stack
 | Category   | Details    |
 |:-----------|:-----------|
-| Language   | JavaScript |
-| Framework  |            |
+| Language   | JavaScript, Dart |
+| Framework  | Flutter           |
 | Library    | React, Axios, jQuery |
 | UI         | Tailwindcss |
 
