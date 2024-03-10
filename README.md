@@ -6,9 +6,6 @@
 - 📚 Physics (Bc.s. at LMU Munich)
 - 📭 dr.ydmins@gmail.com
 
-#### Currently
-- 🙋🏻‍♂️ 구직활동중 (open to work)
-
 #### 🥇 Main Stack 
 |Category      | Details                       |
 |:-----------|:--------------------------------|
