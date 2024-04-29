@@ -1,12 +1,38 @@
-### YdMinS
-
+### YdMinS!
 - 🧑🏻‍💻 Web Backend Engineer
 - 📍 🇰🇷 Republic of Korea (Seoul, Gyeonggi)
 - 📢 🇰🇷 Korean (mother tongue), 🇩🇪 German, 🇬🇧 English
 - 📚 Physics (Bc.s. at LMU Munich)
 - 📭 dr.ydmins@gmail.com
 
-#### 🥇 Main Stack 
+### Statistics
+<div>
+<div>
+  <img alt = "stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=ydmins&show_icons=true&theme=holi" width = "49%" height="130%" />
+  <img alt="algorithms" src = "http://mazassumnida.wtf/api/generate_badge?boj=ydmins" width="42%" height="100%"/>
+<!--   <img alt = "top langs" align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&layout=compact" width = "47%%"/> -->
+</div>
+<br>
+<div>
+  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+</div>
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+#### 🥇 My Main Tools
+<!-- <div> -->
+<!--   <img align="left" src="https://raw.githubusercontent.com/YdMinS/icons/java.png" alt="java" height="42px"/> -->
+<!-- </div> -->
+
 |Category      | Details                       |
 |:-----------|:--------------------------------|
 | Language   | Java                            |
@@ -40,6 +66,9 @@
 | Server/Hosting    | Firebase, Bluehost |
 | Collaboration Tool | Jira |
 | Data Analysis | Gnuplot |
+<br/>
+
+
 
 <!--
 #### TOOL
