@@ -3,7 +3,7 @@
 - 📢 🇰🇷 Korean (mother tongue), 🇩🇪 German, 🇬🇧 English
 - 📚 Physics (Bc.s. at LMU Munich)
 - 📭 dr.ydmins@gmail.com
-
+<!--
 ### Main Tools
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
@@ -30,6 +30,7 @@
 <br>
 <br>
 <br>
+-->
 
 ### Statistics
 <div>
