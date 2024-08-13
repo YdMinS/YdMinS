@@ -1,4 +1,3 @@
-### YdMinS!
 <!--
 ### Main Tools
 <div width="100%">
